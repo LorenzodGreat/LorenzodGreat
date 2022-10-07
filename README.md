@@ -27,6 +27,7 @@ Aside from coding I enjoy designing in Photoshop CS5 technical things ✍️
    <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/django/django-original.svg" alt="django" height="50"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/mysql/mysql-plain.svg" alt="mysql" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/python/python-original-wordmark.svg" alt="python" height="50"/>
+  <img src="https://i.stack.imgur.com/kyKz5.png" alt="react" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/git/git-original-wordmark.svg" alt="git" height="50"/>
   </p><br />
