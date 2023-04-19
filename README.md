@@ -1,7 +1,7 @@
 
 ### Hi! I'm [LorenzodGreat] 🐱‍👤👑
 
-I'm a **Full Stack Developer** based in Jamaica ^_^ ☀️, working at [Amber Group Limited](https://myambergroup.com/). I'm passionate and I love to develop in many different languages such as **Python**,  **Laravel**, **CSS**, **UX/UI** **React** & **Django**.
+I'm a **Full Stack Developer** based in Jamaica ^_^ ☀️. I'm passionate and I love to develop in many different languages such as **Python**,  **Laravel**, **CSS**, **UX/UI** **React** & **Django**.
 
 Aside from coding I enjoy designing in Photoshop CS5 technical things ✍️
 
